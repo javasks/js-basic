@@ -1,0 +1,10 @@
+const date1=new Date( )
+const date2=new Date(2022)
+const date3=new Date("January 3, 2022 8:10:00")
+//new Date(year,month,date[hour,minute,second,millisecond ])
+const date4=new Date(2022,00,02,30,45,10)
+
+console.log(date1)
+console.log(date2)
+console.log(date3)
+console.log(date4)
